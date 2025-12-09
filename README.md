@@ -1,5 +1,5 @@
 # APICadastroPessoas
-API em Asp .NET Core 8 para cadastro e listagem de Pessoa PJ e PF
+API em Asp .NET Core 8 (com a ferramenta Swagger),  para cadastro e listagem de Pessoa PJ e PF
 
 1-para baixar o projeto para sua maquina, acesse o terminal e digite e execute o seguinte comando:
       
