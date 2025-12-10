@@ -5,7 +5,11 @@ API em Asp .NET Core 8 (com a ferramenta Swagger),  para cadastro e listagem de 
       
       git clone https://github.com/igorcesarprojetos/APICadastroPessoas.git
 
-3-Para rodar o script do banco de dados se em encontra no projeto da  API em:
+2- para abrir o projeto terá que executar a API primeiro no seu visual studio ou VSCode que está em:
+
+      "\\APICadastroPessoas\CadastroPessoas.sln"
+
+3-Para rodar o script do banco de dados se encontra no projeto da  API em:
       
       "\\APICadastroPessoas\CadastroPessoas.View\ScriptDataBase\scriptBanco.sql"
 
@@ -13,8 +17,6 @@ API em Asp .NET Core 8 (com a ferramenta Swagger),  para cadastro e listagem de 
 
       "DefaultConnection": "Server=;user=;password=;Database=CadastroPessoas;Encrypt=False"
 
-5- para rodar o projeto terá que executar a API primeiro no seu visual studio ou VSCode que está em:
 
-      "\\APICadastroPessoas\CadastroPessoas.sln"
 
 
