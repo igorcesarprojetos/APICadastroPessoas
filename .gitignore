@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/CadastroPessoas
+/CadastroPessoas.Test/appsettings.json
+/CadastroPessoas.View/appsettings.json
