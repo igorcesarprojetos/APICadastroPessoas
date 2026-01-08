@@ -15,7 +15,7 @@ API em Asp .NET Core 8 (com a ferramenta Swagger),  para cadastro e listagem de 
 
 4- No arquivo appsettings.json informar informas as informações do seu gerenciador de banco de dados como o server,user e password
 
-      "DefaultConnection": "Server=;user=;password=;Database=CadastroPessoas;Encrypt=False"
+      "DefaultConnection": "Server=NomeSeuServidor;user=SeuUsuario;password=SuaSenha;Database=CadastroPessoas;Encrypt=False"
 
 
 
