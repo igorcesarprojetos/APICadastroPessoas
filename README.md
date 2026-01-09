@@ -7,11 +7,11 @@ API em Asp .NET Core 8 (com a ferramenta Swagger),  para cadastro e listagem de 
 
 2- para abrir o projeto terá que executar a API primeiro no seu visual studio ou VSCode que está em:
 
-      "\\APICadastroPessoas\CadastroPessoas.sln"
+      "CaminhoDoSeuDiretorioLocal\APICadastroPessoas\CadastroPessoas.sln"
 
 3-Para rodar o script do banco de dados se encontra no projeto da  API em:
       
-      "\\APICadastroPessoas\CadastroPessoas.View\ScriptDataBase\scriptBanco.sql"
+      "CaminhoDoSeuDiretorioLocal\APICadastroPessoas\CadastroPessoas.View\ScriptDataBase\scriptBanco.sql"
 
 4- No arquivo appsettings.json informar informas as informações do seu gerenciador de banco de dados como o server,user e password
 
